@@ -1354,7 +1354,7 @@ namespace nkast.Aether.Physics2D.Dynamics
 
         /// <summary>
         /// Take a time step. This performs collision detection, integration,
-        /// and consraint solution.
+        /// and constraint solution.
         /// </summary>
         /// <param name="dt">The amount of time to simulate, this should not vary.</param>
         public void Step(TimeSpan dt, ref SolverIterations iterations)
