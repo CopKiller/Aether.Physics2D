@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JhqIKsHpZaQ=",
+  "dgSpecHash": "zkuCaNqZeYdqeb7g6HBKgyslxrRpXUQVlUBqqar6VO2lAlI6q7UO759k8M6iDsugd6kAdKFYUU/8GtlQEMV8Ug==",
   "success": true,
   "projectFilePath": "/home/filipe/SideProject2D/Infrastructure/Aether.Physics/Physics2D/Aether.Physics2D.csproj",
   "expectedPackageFiles": [
-    "/home/filipe/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "/home/filipe/.nuget/packages/microsoft.net.illink.tasks/8.0.10/microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
     "/home/filipe/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/filipe/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "/home/filipe/.nuget/packages/microsoft.netframework.referenceassemblies.net40/1.0.3/microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512",
